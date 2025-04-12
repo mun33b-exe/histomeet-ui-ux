@@ -35,10 +35,31 @@ This project was designed to explore **human-centered design** principles and cr
 
 ## 📷 Screenshots
 
-| Home | Timeline Filter | Personality Type |
-|------|------------------|------------------|
-| ![Home](screenshots/home.png) | ![Timeline](screenshots/timeline.png) | ![Type](screenshots/type.png) |
+### 🔐 Authentication Flow
+| Splash Screen | Login | Signup | Forgot Password |
+|---------------|-------|--------|-----------------|
+| ![Splash](screenshots/Splash.png) | ![Login](screenshots/Login.png) | ![Signup](screenshots/Signup.png) | ![Forgot](screenshots/Forgot.png) |
 
+---
+
+### 🏠 Main App Screens
+| Home | Timeline Filter | Chat |
+|------|------------------|------|
+| ![Home](screenshots/Home.png) | ![Timeline](screenshots/Timeline.png) | ![Chat](screenshots/Chat.png) |
+
+---
+
+### ⚙️ Settings & Account
+| Settings | Account |
+|----------|---------|
+| ![Settings](screenshots/Settings.png) | ![Account](screenshots/Account.png) |
+
+---
+
+### 💳 Extras
+| Payment Method | Share / Invite |
+|----------------|----------------|
+| ![Payment](screenshots/Payment_Method.png) | ![Share](screenshots/Share.png) |
 
 ---
 
